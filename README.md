@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @31sk
 - 👀 I’m interested in ai
 - 🌱 I’m currently learning datascience
+- I am very much eager to learn new things
   
 <!---
 31sk/31sk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
